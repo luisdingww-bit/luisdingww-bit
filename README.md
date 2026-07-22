@@ -115,9 +115,14 @@
   <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a>
+</p>
+
 ---
 
 <p align="center">
   <i>Architecture · AI · Digital Fabrication</i><br>
   <i>建築 · 人工知能 · デジタルファブリケーション</i>
 </p>
+
