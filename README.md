@@ -63,23 +63,14 @@
 
 ## 📂 Research Portfolio
 
-### 🔬 [AI-Architecture-Research](https://github.com/luisdingww-bit/AI-Architecture-Research) ⭐ *Core Research*
-> AI-assisted campus spatial optimization — human behavior analysis → Stable Diffusion generation → BIM integration
-
-### 🖨 [Parametric-3D-Printing](https://github.com/luisdingww-bit/Parametric-3D-Printing)
-> Computational geometry → Grasshopper → 3D printing fabrication pipeline
-
-### 🔄 [BIM-Automation](https://github.com/luisdingww-bit/BIM-Automation)
-> Revit API automation, room scheduling, parametric family generation
-
-### 🧩 [Grasshopper-Experiments](https://github.com/luisdingww-bit/Grasshopper-Experiments)
-> Parametric design exploration — Voronoi, panelization, mesh relaxation
-
-### 🤖 [ROS2-Robotic-Architecture](https://github.com/luisdingww-bit/ROS2-Robotic-Architecture)
-> Robotic arm fabrication toolpath planning and ROS2 integration
-
-### 📐 [Architecture-Portfolio](https://github.com/luisdingww-bit/Architecture-Portfolio)
-> Design portfolio, project documentation, renderings, technical drawings
+| Repository | Stack | Description |
+|---|---|---|
+| 🔬 **AI-Architecture-Research** ⭐ | Python · SD · Rhino | AI-assisted spatial optimization — behavior data → AI → BIM |
+| 🖨 **Parametric-3D-Printing** | GH · Rhino · 3DP | Computational geometry → digital fabrication pipeline |
+| 🔄 **BIM-Automation** | Python · Revit API | Revit automation, scheduling, family generation |
+| 🧩 **Grasshopper-Experiments** | C# · Grasshopper | Voronoi, panelization, mesh relaxation |
+| 🤖 **ROS2-Robotic-Architecture** | Python · ROS2 · UR5 | Robotic fabrication & toolpath planning |
+| 📐 **Architecture-Portfolio** | Docs · Renderings | Design portfolio & project documentation |
 
 ---
 
@@ -132,5 +123,6 @@
   <i>Architecture · AI · Digital Fabrication</i><br>
   <i>建築 · 人工知能 · デジタルファブリケーション</i>
 </p>
+
 
 
