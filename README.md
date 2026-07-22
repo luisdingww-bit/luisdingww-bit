@@ -9,6 +9,7 @@
   <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.hku.hk"><img src="https://img.shields.io/badge/Hong_Kong_Permanent_Resident-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMjI4IDQ4YzAgMjYtMTAgNDktMjYgNjctMTUgMTgtMzUgMjgtNTYgMjktMjIgMS00Mi05LTU3LTI2LTE1LTE3LTI0LTQwLTI0LTY2IDAtMjYgMTAtNDkgMjYtNjcgMTUtMTggMzUtMjggNTYtMjkgMjItMSA0MiA5IDU3IDI2IDE1IDE3IDI0IDQwIDI0IDY2eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white"/></a>
   <a href="https://www.hqu.edu.cn"><img src="https://img.shields.io/badge/华侨大学_Architecture-1A1A2E?style=for-the-badge"/></a>
+  <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
 </p>
 
 ---
@@ -116,7 +117,13 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a>
+  <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
+  <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a> · 💬 WeChat: <strong>louis__heree</strong>
 </p>
 
 ---
@@ -125,4 +132,5 @@
   <i>Architecture · AI · Digital Fabrication</i><br>
   <i>建築 · 人工知能 · デジタルファブリケーション</i>
 </p>
+
 
