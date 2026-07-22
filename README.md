@@ -34,7 +34,7 @@
 
 | | |
 |---|---|
-| 🇭🇰 **Hong Kong Permanent Resident** | Local status for HKU application, special quota for 清北 |
+| 🇭🇰 **Hong Kong Permanent Resident** | Local status for HKU application, special quota for Tsinghua, PKU |
 | 🎓 **Huaqiao University (Architecture)** | 5-year B.Arch program, senior year |
 | 🤖 **AI + Architecture (Unique Niche)** | Rare combination — high demand in academia |
 | 💻 **Technical Skills** | Python · Rhino/Grasshopper · Revit · SD · ComfyUI |
@@ -103,8 +103,7 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </p>
 
 <p align="center">
@@ -121,7 +120,7 @@
 
 <p align="center">
   <i>Architecture · AI · Digital Fabrication</i><br>
-  <i>建築 · 人工知能 · デジタルファブリケーション</i>
+  <i>建築 · 人工智能 · デジタルファブリケーション</i>
 </p>
 
 
