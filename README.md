@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Hong_Kong_Permanent_Resident-0088CC?style=for-the-badge&logo=hongkong&logoColor=white"/>
-  <img src="https://img.shields.io/badge/华侨大学_Architecture-1A1A2E?style=for-the-badge"/>
+  <a href="https://www.hku.hk"><img src="https://img.shields.io/badge/Hong_Kong_Permanent_Resident-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMjI4IDQ4YzAgMjYtMTAgNDktMjYgNjctMTUgMTgtMzUgMjgtNTYgMjktMjIgMS00Mi05LTU3LTI2LTE1LTE3LTI0LTQwLTI0LTY2IDAtMjYgMTAtNDkgMjYtNjcgMTUtMTggMzUtMjggNTYtMjkgMjItMSA0MiA5IDU3IDI2IDE1IDE3IDI0IDQwIDI0IDY2eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white"/></a>
+  <a href="https://www.hqu.edu.cn"><img src="https://img.shields.io/badge/华侨大学_Architecture-1A1A2E?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -44,19 +44,19 @@
 ## 🛠️ Tech Stack
 
 ### Architecture & Design
-![Rhino](https://img.shields.io/badge/Rhino-801010?style=flat-square&logo=rhinoceros&logoColor=white)
-![Grasshopper](https://img.shields.io/badge/Grasshopper-88CE02?style=flat-square&logo=grasshopper&logoColor=white)
-![Revit](https://img.shields.io/badge/Revit-1A1A1A?style=flat-square&logo=autodesk&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+<a href="https://www.rhino3d.com"><img src="https://img.shields.io/badge/Rhino-801010?style=flat-square&logo=rhinoceros&logoColor=white"/></a>
+<a href="https://www.grasshopper3d.com"><img src="https://img.shields.io/badge/Grasshopper-88CE02?style=flat-square&logo=grasshopper&logoColor=white"/></a>
+<a href="https://www.autodesk.com/products/revit"><img src="https://img.shields.io/badge/Revit-1A1A1A?style=flat-square&logo=autodesk&logoColor=white"/></a>
+<a href="https://www.blender.org"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/></a>
+<a href="https://www.autodesk.com/products/autocad"><img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/></a>
 
 ### Programming & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-9C27B0?style=flat-square&logo=stabilityai&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-FF6F00?style=flat-square&logo=comfyui&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+<a href="https://stability.ai/stable-diffusion"><img src="https://img.shields.io/badge/Stable%20Diffusion-9C27B0?style=flat-square&logo=stabilityai&logoColor=white"/></a>
+<a href="https://github.com/comfyanonymous/ComfyUI"><img src="https://img.shields.io/badge/ComfyUI-FF6F00?style=flat-square&logo=comfyui&logoColor=white"/></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
 
 ---
 
@@ -64,28 +64,18 @@
 
 ### 🔬 [AI-Architecture-Research](https://github.com/luisdingww-bit/AI-Architecture-Research) ⭐ *Core Research*
 > AI-assisted campus spatial optimization — human behavior analysis → Stable Diffusion generation → BIM integration
->
-> `Python` `Stable Diffusion` `Rhino` `Revit` `Research`
 
 ### 🖨 [Parametric-3D-Printing](https://github.com/luisdingww-bit/Parametric-3D-Printing)
 > Computational geometry → Grasshopper → 3D printing fabrication pipeline
->
-> `Grasshopper` `Rhino` `PLA/PETG` `Bambu Lab`
 
 ### 🔄 [BIM-Automation](https://github.com/luisdingww-bit/BIM-Automation)
 > Revit API automation, room scheduling, parametric family generation
->
-> `Python` `Revit API` `Dynamo` 
 
 ### 🧩 [Grasshopper-Experiments](https://github.com/luisdingww-bit/Grasshopper-Experiments)
 > Parametric design exploration — Voronoi, panelization, mesh relaxation
->
-> `C#` `Grasshopper` `Computational Geometry`
 
 ### 🤖 [ROS2-Robotic-Architecture](https://github.com/luisdingww-bit/ROS2-Robotic-Architecture)
 > Robotic arm fabrication toolpath planning and ROS2 integration
->
-> `Python` `ROS2` `G-code` `UR5`
 
 ### 📐 [Architecture-Portfolio](https://github.com/luisdingww-bit/Architecture-Portfolio)
 > Design portfolio, project documentation, renderings, technical drawings
@@ -123,7 +113,6 @@
 <p align="center">
   <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/WeChat-luisdingww-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 </p>
 
 ---
