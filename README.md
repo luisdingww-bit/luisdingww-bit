@@ -67,9 +67,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luisdingww-bit&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdingww-bit&layout=compact&theme=nightowl&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisdingww-bit&theme=react-dark&hide_border=true" width="95%" />
