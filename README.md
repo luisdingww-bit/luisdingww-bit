@@ -9,7 +9,7 @@
   <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.gov.hk"><img src="https://img.shields.io/badge/Hong_Kong_Permanent_Resident-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMjI4IDQ4YzAgMjYtMTAgNDktMjYgNjctMTUgMTgtMzUgMjgtNTYgMjktMjIgMS00MiA5LTU3LTI2LTE1LTE3LTI0LTQwLTI0LTY2IDAtMjYgMTAtNDkgMjYtNjcgMTUtMTggMzUtMjggNTYtMjkgMjItMSA0MiA5IDU3IDI2IDE1IDE3IDI0IDQwIDI0IDY2eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white"/></a>
   <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
-  <a href="https://[personal-neng-site.surge.sh](https://luisdingww-bit.github.io/louis-ding-portfolio/#projects)"><img src="https://img.shields.io/badge/Website-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://[luisdingww-bit.github.io](https://luisdingww-bit.github.io/louis-ding-portfolio/#projects)"><img src="https://img.shields.io/badge/Website-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
 
 ---
