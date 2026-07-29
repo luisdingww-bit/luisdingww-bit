@@ -54,6 +54,7 @@
 | Repository | Stack | Description |
 |---|---|---|
 | 🖨 [**snapprint**](https://github.com/luisdingww-bit/snapprint) ⭐3 | JS · Three.js · Hunyuan3D | 照片转可打印 3D 模型 · 离线浮雕 + AI 模式适配 · 中文 Web UI |
+| [hot-pull](https://github.com/luisdingww-bit/hot-pull) | HTML · CSS · JS | 全网热搜抽卡小游戏 · 实时趋势主题抽卡 · GitHub Pages |
 | 🔬 [**AI-Architecture-Research**](https://github.com/luisdingww-bit/AI-Architecture-Research) | Python · SD · Rhino | AI-assisted spatial optimization — behavior data → AI → BIM |
 | 🧠 [**Arch-Spatial-Intelligence**](https://github.com/luisdingww-bit/Arch-Spatial-Intelligence) | Python | Space syntax, graph analysis, facade classification |
 | 🤖 [**ROS2-Robotic-Architecture**](https://github.com/luisdingww-bit/ROS2-Robotic-Architecture) | Python · ROS2 · UR5 | Robotic fabrication & toolpath planning |
