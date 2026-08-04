@@ -4,18 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=700&lines=Architecture+Student+%40+Huaqiao+University;AI+%2B+Computational+Design+Researcher;Hong+Kong+Permanent+Resident;Architecture+%E2%89%A1+AI+%2B+Digital+Fabrication" alt="Typing SVG" />
 </p>
 
-## 🚀 My Portfolio
-
 <p align="center">
-  <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-6C5CE7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/#projects">
-    <img src="https://img.shields.io/badge/Projects-2C3E50?style=for-the-badge&logo=grid&logoColor=white" alt="Projects"/>
-  </a>
+  <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.gov.hk"><img src="https://img.shields.io/badge/Hong_Kong_Permanent_Resident-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMjI4IDQ4YzAgMjYtMTAgNDktMjYgNjctMTUgMTgtMzUgMjgtNTYgMjktMjIgMS00MiA5LTU3LTI2LTE1LTE3LTI0LTQwLTI0LTY2IDAtMjYgMTAtNDkgMjYtNjcgMTUtMTggMzUtMjggNTYtMjkgMjItMSA0MiA5IDU3IDI2IDE1IDE3IDI0IDQwIDI0IDY2eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white"/></a>
+  <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
+  <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/#projects"><img src="https://img.shields.io/badge/Website-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
-
-> 🌐 **[https://luisdingww-bit.github.io/louis-ding-portfolio/](https://luisdingww-bit.github.io/louis-ding-portfolio/)** — my creative studio portfolio · 作品集（Vite + React + TS + Tailwind）
 
 ---
 
@@ -58,11 +53,16 @@
 
 | Repository | Stack | Description |
 |---|---|---|
-| 🖨 [**snapprint**](https://github.com/luisdingww-bit/snapprint) ⭐4 | Python · FastAPI | SnapPrint 咔印3D 社区 — 上传模型秒出可打印性报告 · 照片生成 3D |
-| 🎨 [**louis-ding-portfolio**](https://github.com/luisdingww-bit/louis-ding-portfolio) | Vite · React · TS · Tailwind | 我的作品集网站 · creative studio portfolio |
-| 🕸 [**spider-verse-nebula**](https://github.com/luisdingww-bit/spider-verse-nebula) | JS · Three.js | 蜘蛛侠多元宇宙星云 — 3D 粒子 + 摄像头面具互动 |
-| ⚡ [**hot-pull**](https://github.com/luisdingww-bit/hot-pull) | HTML · CSS · JS | 全网热搜抽卡小游戏 · 实时趋势主题 · GitHub Pages |
-| 🐉 [**dragonraja-site**](https://github.com/luisdingww-bit/dragonraja-site) | HTML · CSS · JS | 龙族同人个人站（中英双语） |
+| 🖨 [**snapprint**](https://github.com/luisdingww-bit/snapprint) ⭐3 | JS · Three.js · Hunyuan3D | 照片转可打印 3D 模型 · 离线浮雕 + AI 模式适配 · 中文 Web UI |
+| [hot-pull](https://github.com/luisdingww-bit/hot-pull) | HTML · CSS · JS | 全网热搜抽卡小游戏 · 实时趋势主题抽卡 · GitHub Pages |
+| 🔬 [**AI-Architecture-Research**](https://github.com/luisdingww-bit/AI-Architecture-Research) | Python · SD · Rhino | AI-assisted spatial optimization — behavior data → AI → BIM |
+| 🧠 [**Arch-Spatial-Intelligence**](https://github.com/luisdingww-bit/Arch-Spatial-Intelligence) | Python | Space syntax, graph analysis, facade classification |
+| 🤖 [**ROS2-Robotic-Architecture**](https://github.com/luisdingww-bit/ROS2-Robotic-Architecture) | Python · ROS2 · UR5 | Robotic fabrication & toolpath planning |
+| 🔄 [**BIM-Automation**](https://github.com/luisdingww-bit/BIM-Automation) | Python · Revit API | Revit automation, scheduling, family generation |
+| 🖨 [**Parametric-3D-Printing**](https://github.com/luisdingww-bit/Parametric-3D-Printing) | GH · Rhino · 3DP | Computational geometry → digital fabrication pipeline |
+| 🧩 [**Grasshopper-Experiments**](https://github.com/luisdingww-bit/Grasshopper-Experiments) | C# · Grasshopper | Voronoi, panelization, mesh relaxation |
+| 📐 [**Architecture-Portfolio**](https://github.com/luisdingww-bit/Architecture-Portfolio) | Docs · Renderings | Design portfolio & project documentation |
+| 🗂 [**neng-archive**](https://github.com/luisdingww-bit/neng-archive) | JS · Archive | 个人档案 · 项目 / 代码 / 模型 / 实验 / 图片 / 论文笔记 |
 
 ---
 
@@ -78,13 +78,13 @@
 
 <p align="center">
   <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
-  <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/"><img src="https://img.shields.io/badge/Website-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a> · 💬 WeChat: <strong>louis__heree</strong> · 🌐 <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/">Portfolio</a>
+  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a> · 💬 WeChat: <strong>louis__heree</strong>
 </p>
 
 ---
