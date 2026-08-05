@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.gov.hk"><img src="https://img.shields.io/badge/Hong_Kong_Permanent_Resident-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMjI4IDQ4YzAgMjYtMTAgNDktMjYgNjctMTUgMTgtMzUgMjgtNTYgMjktMjIgMS00MiA5LTU3LTI2LTE1LTE3LTI0LTQwLTI0LTY2IDAtMjYgMTAtNDkgMjYtNjcgMTUtMTggMzUtMjggNTYtMjkgMjItMSA0MiA5IDU3IDI2IDE1IDE3IDI0IDQwIDI0IDY2eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white"/></a>
+  <a href="https://www.gov.hk"><img src="https://img.shields.io/badge/HK_Permanent_Resident-0088CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMjI4IDQ4YzAgMjYtMTAgNDktMjYgNjctMTUgMTgtMzUgMjgtNTYgMjktMjIgMS00MiA5LTU3LTI2LTE1LTE3LTI0LTQwLTI0LTY2IDAtMjYgMTAtNDkgMjYtNjcgMTUtMTggMzUtMjggNTYtMjkgMjItMSA0MiA5IDU3IDI2IDE1IDE3IDI0IDQwIDI0IDY2eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white"/></a>
   <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
   <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/#projects"><img src="https://img.shields.io/badge/Website-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
@@ -53,7 +53,8 @@
 
 | Repository | Stack | Description |
 |---|---|---|
-| 🖨 [**snapprint**](https://github.com/luisdingww-bit/snapprint) ⭐3 | JS · Three.js · Hunyuan3D | 照片转可打印 3D 模型 · 离线浮雕 + AI 模式适配 · 中文 Web UI |
+| ⭐ [**louis-ding-portfolio**](https://github.com/luisdingww-bit/louis-ding-portfolio) | React · TS · Vite · Tailwind | 个人作品集网站（主站）· 建筑 / 计算性设计项目展示 |
+| 🖨 [**snapprint**](https://github.com/luisdingww-bit/snapprint) ⭐4 | JS · Three.js · Hunyuan3D | 照片/Logo 转可打印 3D 模型 · 浮雕/真实3D/3DGS · FastAPI+SQLite · Apache-2.0 |
 | [hot-pull](https://github.com/luisdingww-bit/hot-pull) | HTML · CSS · JS | 全网热搜抽卡小游戏 · 实时趋势主题抽卡 · GitHub Pages |
 | 🔬 [**AI-Architecture-Research**](https://github.com/luisdingww-bit/AI-Architecture-Research) | Python · SD · Rhino | AI-assisted spatial optimization — behavior data → AI → BIM |
 | 🧠 [**Arch-Spatial-Intelligence**](https://github.com/luisdingww-bit/Arch-Spatial-Intelligence) | Python | Space syntax, graph analysis, facade classification |
@@ -63,6 +64,13 @@
 | 🧩 [**Grasshopper-Experiments**](https://github.com/luisdingww-bit/Grasshopper-Experiments) | C# · Grasshopper | Voronoi, panelization, mesh relaxation |
 | 📐 [**Architecture-Portfolio**](https://github.com/luisdingww-bit/Architecture-Portfolio) | Docs · Renderings | Design portfolio & project documentation |
 | 🗂 [**neng-archive**](https://github.com/luisdingww-bit/neng-archive) | JS · Archive | 个人档案 · 项目 / 代码 / 模型 / 实验 / 图片 / 论文笔记 |
+
+### 🎮 Creative / 实验
+
+| Repository | Stack | Description |
+|---|---|---|
+| 🐉 [**dragonraja-site**](https://github.com/luisdingww-bit/dragonraja-site) | WebGL · Three.js | 龙族同人个人站 · 36 spirit codex / volumes / four kings（CC BY-NC 4.0） |
+| 🕷 [**spider-verse-nebula**](https://github.com/luisdingww-bit/spider-verse-nebula) | WebGL · Webcam | 蜘蛛侠多元宇宙星云 · 3D 粒子 + 摄像头人脸/手势交互（CC BY-NC 4.0） |
 
 ---
 
@@ -77,19 +85,12 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://weixin.qq.com"><img src="https://img.shields.io/badge/WeChat-louis__heree-07C160?style=for-the-badge&logo=wechat&logoColor=white"/></a>
-  <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/"><img src="https://img.shields.io/badge/Website-6C5CE7?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="mailto:luisdingww@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/luisdingww-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a> · 💬 WeChat: <strong>louis__heree</strong>
+  📧 <a href="mailto:luisdingww@gmail.com">luisdingww@gmail.com</a> · 💬 WeChat: <strong>louis__heree</strong> · 🌐 <a href="https://luisdingww-bit.github.io/louis-ding-portfolio/#projects">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
   <i>Architecture · AI · Digital Fabrication</i><br>
-  <i>建築 · 人工智能 · デジタルファブリケーション</i>
+  <i>建築 · 人工智能 · 数字建造</i>
 </p>
