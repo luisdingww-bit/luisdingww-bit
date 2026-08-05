@@ -55,17 +55,14 @@
 |---|---|---|
 | ⭐ [**louis-ding-portfolio**](https://github.com/luisdingww-bit/louis-ding-portfolio) | React · TS · Vite · Tailwind | 个人作品集网站（主站）· 建筑 / 计算性设计项目展示 |
 | 🖨 [**snapprint**](https://github.com/luisdingww-bit/snapprint) ⭐4 | JS · Three.js · Hunyuan3D | 照片/Logo 转可打印 3D 模型 · 浮雕/真实3D/3DGS · FastAPI+SQLite · Apache-2.0 |
-| 🔬 [**AI-Architecture-Research**](https://github.com/luisdingww-bit/AI-Architecture-Research) | Python · SD · Rhino | AI-assisted spatial optimization — behavior data → AI → BIM |
 | 🧠 [**Arch-Spatial-Intelligence**](https://github.com/luisdingww-bit/Arch-Spatial-Intelligence) | Python | Space syntax, graph analysis, facade classification |
 | 🤖 [**ROS2-Robotic-Architecture**](https://github.com/luisdingww-bit/ROS2-Robotic-Architecture) | Python · ROS2 · UR5 | Robotic fabrication & toolpath planning |
 | 🔄 [**BIM-Automation**](https://github.com/luisdingww-bit/BIM-Automation) | Python · Revit API | Revit automation, scheduling, family generation |
-| 🖨 [**Parametric-3D-Printing**](https://github.com/luisdingww-bit/Parametric-3D-Printing) | GH · Rhino · 3DP | Computational geometry → digital fabrication pipeline |
 
 <details>
-<summary>🧩 更多 · Grasshopper-Experiments · Architecture-Portfolio · neng-archive · hot-pull</summary>
+<summary>🧩 更多 · Grasshopper-Experiments · neng-archive · hot-pull</summary>
 
 - 🧩 [**Grasshopper-Experiments**](https://github.com/luisdingww-bit/Grasshopper-Experiments) — Voronoi, panelization, mesh relaxation（C# · Grasshopper）
-- 📐 [**Architecture-Portfolio**](https://github.com/luisdingww-bit/Architecture-Portfolio) — Design portfolio & project documentation（Docs · Renderings）
 - 🗂 [**neng-archive**](https://github.com/luisdingww-bit/neng-archive) — 个人档案 · 项目 / 代码 / 模型 / 实验 / 图片 / 论文笔记（JS · Archive）
 - 🎲 [**hot-pull**](https://github.com/luisdingww-bit/hot-pull) — 全网热搜抽卡小游戏 · 实时趋势主题抽卡（HTML · CSS · JS）
 
